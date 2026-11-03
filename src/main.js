@@ -1,5 +1,5 @@
 import './style.css'
-import { createImageCard } from '../ImageCard.js'
+import { createImageCard } from './components/ImageCard.js'
 
 const app = document.querySelector('#app')
 
